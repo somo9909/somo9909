@@ -1,16 +1,18 @@
-## Hi there 👋
+## Somodeep Goswami — AI/ML Engineer in progress
 
-<!--
-**somo9909/somo9909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year CS student | Building tools for ML students 
+with weak internet | Open Source | Python · PyTorch · Ollama
 
-Here are some ideas to get you started:
+## What I build
+- datapack — resumable dataset downloader for slow connections
+- datasentinel — automatic dataset quality checker
+- (next project here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python · PyTorch · CLI Tools · Git · Pandas · NumPy
+
+## Currently learning
+Transformers · RAG systems · MLOps basics
+
+## Connect
+LinkedIn | Email
